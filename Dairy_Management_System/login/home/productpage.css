@@ -1,0 +1,521 @@
+body{
+    color:#40514E;
+    margin:0px;
+    text-align: center;
+    font-family:Garamond, serif;
+}
+
+.top{
+    background-color: #E4F9F5;
+    height: 900px;
+}
+
+.ima1{
+    width:50%;
+    float:left;
+    margin-right: 30px;
+    margin-top: -100px;
+}
+
+h1{
+    color:#66BFBF;
+    margin-top:0;
+    line-height: 1;
+    font-size: 5.625rem;
+    margin:50px auto 0 auto;
+    font-family: Garamond, serif;
+}
+
+h3{
+    color: #66BFBF;
+    font-family:Garamond, serif;
+}
+
+h2{
+    color: #66BFBF;
+}
+
+a{
+    color:#11999E;
+    font-family: Garamond, serif;
+    margin:10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#EAF6F6
+}
+
+.top-cloud{
+   margin-left:700px; 
+   
+}
+
+.bottom-cloud{
+    position:absolute;
+    left:100px;
+    top:400px;
+}
+
+.skill-row{
+    width:50%;
+    margin:300px auto 100px auto;
+    text-align: left;
+    font-family: Garamond, serif;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+.hi{
+    width: 20%;
+}
+
+p{
+    font-family:Garamond, serif;
+    line-height: 2;
+}
+
+.profile-row{
+    width: 30%;
+    margin:auto;
+    margin-top: 70px;
+}
+
+.hih{
+    color: #66BFBF;
+    font-family:Garamond, serif;
+    margin-top: 50px;
+}
+
+.hi{
+margin-top: 100px;
+}
+
+hr{
+    border:dotted #EAF6F6 6px;
+    border-bottom: none;
+    width:4%;
+    margin:100px auto;
+}
+
+.middle{
+    margin:100px 0;
+}
+
+.prd{
+    color:#66BFBF ;
+}
+
+.skill-row-two{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+}
+
+.cow{
+    float:left;
+    margin-right:40px;
+    width: 200px;
+}
+
+.ghee{
+    width: 30%;
+    float:right;
+    margin-left:40px;
+}
+
+.curd{
+    width: 35%;
+    margin-right:40px;
+    float:left;
+}
+
+.chees{
+    width:35%;
+    margin-right:40px;
+    float:left;
+}
+
+.egg{
+    width: 30%;
+    float:right;
+    margin-left:40px;
+}
+
+.butter{
+    width:45%;
+    float:right;
+    margin-left:40px;
+}
+
+.bottom-section{
+    font-family:Garamond, serif;
+    background-color: #66BFBF;
+    padding:40px 0 5px;
+}
+
+.copyright{
+    color:#EAF6F6;
+    font-size: 0.75rem;
+    padding:20px 0;
+}
+
+.par{
+    width:30%;
+    margin:100px auto;
+}
+
+.cp{
+    position: inline-block;
+    width:1.5%;
+    top:100px;
+}
+
+.btnn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-left: 0px;
+    margin-top: 10px;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+.hone{
+    margin-top:  250px;
+}
+
+.white{
+    color: white;
+}
+
+.onecontainer{
+    background-color: #E4F9F5;
+    width: 300px;
+    height:400px;
+    margin-top:100px;
+    margin-left:150px;
+}
+
+.twocontainer{
+    background-color: #E4F9F5;
+    width: 300px;
+    height:400px;
+    margin-left:500px;
+    margin-top:-400px;
+}
+
+.threecontainer{
+    background-color: #E4F9F5;
+    width: 300px;
+    height:400px;
+    margin-left:850px;
+    margin-top:-400px;
+}
+
+.fourcontainer{
+    background-color: #E4F9F5;
+    width: 300px;
+    height:400px;
+    margin-left:150px;
+    margin-top: 50px;
+}
+
+.fivecontainer{
+    background-color: #E4F9F5;
+    width: 300px;
+    height:400px;
+    margin-left:500px;
+    margin-top: -400px;
+}
+
+.sixcontainer{
+    background-color: #E4F9F5;
+    width: 300px;
+    height:400px;
+    margin-left:850px;
+    margin-top: -400px;
+}
+
+.onemilkimage{
+    width: 70%;
+    margin-top: 20px;
+}
+
+.twogheeimage{
+    width:70%;
+    margin-top: 10px;
+}
+
+.threecurdimage{
+    width:90%;
+    margin-top: 20px;
+}
+
+.fourbutterimage{
+    width:110%;
+    margin-top: 60px;
+}
+
+.fivecheesimage{
+    width:90%;
+    margin-top: 60px;
+}
+
+.sixeggimage{
+    width: 90%;
+    margin-top: -10px;
+}
+
+.threepare{
+    padding-top: 16px;
+}
+
+.fourpara{
+    padding-top: 40px;
+}
+
+.fivepare{
+    padding-top:50px;
+}
+
+nav{
+    margin-top: -1rem;
+    /* margin-bottom: 3px; */
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: #11999e;
+    height: 4rem;
+    justify-content: baseline;
+    align-items:center;
+}
+nav ul li{
+    list-style: none;
+   
+}
+nav ul li a{
+    font-size: 1.5rem;
+    color: black;
+}
+nav ul li button{
+height: 2.3rem;
+width: 5.3rem;
+background-color: #2bc4ad;
+border: 1px solid black;
+border-radius: .5rem;
+font-size: 1rem;
+}
+
+.onemilkbutton{
+    height: 2.3rem;
+    width: 5.3rem;
+    background-color: #2bc4ad;
+    border: 1px solid black;
+    border-radius: .5rem;
+    font-size: 1rem;
+}
+
+.onemilkbutton:hover{
+    background-color: #2bc4ad;
+}
+
+.onegheebutton{
+    height: 2.3rem;
+    width: 5.3rem;
+    background-color: #2bc4ad;
+    border: 1px solid black;
+    border-radius: .5rem;
+    font-size: 1rem;
+}
+
+.onecurdbutton{
+    height: 2.3rem;
+    width: 5.3rem;
+    background-color: #2bc4ad;
+    border: 1px solid black;
+    border-radius: .5rem;
+    font-size: 1rem;
+}
+
+.onebutterbutton{
+    height: 2.3rem;
+    width: 5.3rem;
+    background-color: #2bc4ad;
+    border: 1px solid black;
+    border-radius: .5rem;
+    font-size: 1rem;
+}
+
+.onecheesebutton{
+    height: 2.3rem;
+    width: 5.3rem;
+    background-color: #2bc4ad;
+    border: 1px solid black;
+    border-radius: .5rem;
+    font-size: 1rem;
+}
+
+.oneeggbutton{
+    height: 2.3rem;
+    width: 5.3rem;
+    background-color: #2bc4ad;
+    border: 1px solid black;
+    border-radius: .5rem;
+    font-size: 1rem;
+}
+
+
+.input-group {
+    top: 180px;
+    position: absolute;
+    width: 280px;
+    transition: .5s;
+    color: #66BFBF;
+    margin-left: 500px;
+}
+.input-field{
+    width: 100%;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background: transparent;
+    /* color:#66BFBF; */
+    color: black;
+    text-shadow: black;
+}
+.form-box{
+    width: 380px;
+    height: 480px;
+    position: absolute;
+    margin: 6% 35% ;
+    background-color: rgba(0,0,0, 0.3);
+    padding: 5px;
+    overflow: hidden;
+    zoom: 100%;
+}
+
+.button-box{
+    width: 220px;
+    margin: 35px auto;
+    position: relative;
+    box-shadow: 0 0 20px 9px #ff61241f;
+    border-radius: 30px;
+    background-size: cover;
+}
+
+.productsubmit {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 0px 0px 0px 0px;
+    text-decoration: none;
+  }
+  
+  .productsubmit:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+  .productprint{
+    margin-top: 537px;
+  }
+
+  .productprint {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 0px;
+    text-decoration: none;
+  }
+  
+  .productprint:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+  .productdetail{
+    height: 100%;
+    width: 100%; 
+    background-image: url(img/milkdairy.jpg);
+    /* background-position: center; */
+    background-size: cover;
+    position: absolute;
+}
